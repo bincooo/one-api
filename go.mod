@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.26.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.11
 	github.com/aws/aws-sdk-go-v2/service/bedrockruntime v1.7.4
-	github.com/bincooo/completion-flags v0.0.0-20240423143444-1b7e463800fe
+	github.com/bincooo/completion-flags v0.0.0-20240425042542-ec88c8c3c70b
 	github.com/gin-contrib/cors v1.7.1
 	github.com/gin-contrib/gzip v1.0.0
 	github.com/gin-contrib/sessions v1.0.0

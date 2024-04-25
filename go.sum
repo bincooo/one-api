@@ -14,8 +14,8 @@ github.com/aws/aws-sdk-go-v2/service/bedrockruntime v1.7.4 h1:JgHnonzbnA3pbqj76w
 github.com/aws/aws-sdk-go-v2/service/bedrockruntime v1.7.4/go.mod h1:nZspkhg+9p8iApLFoyAqfyuMP0F38acy2Hm3r5r95Cg=
 github.com/aws/smithy-go v1.20.2 h1:tbp628ireGtzcHDDmLT/6ADHidqnwgF57XOXZe6tp4Q=
 github.com/aws/smithy-go v1.20.2/go.mod h1:krry+ya/rV9RDcV/Q16kpu6ypI4K2czasz0NC3qS14E=
-github.com/bincooo/completion-flags v0.0.0-20240423143444-1b7e463800fe h1:bDwTRbQbD6vU5pFPMz9TSCsm0VS4fhjcVH0qRLT18bY=
-github.com/bincooo/completion-flags v0.0.0-20240423143444-1b7e463800fe/go.mod h1:tABZaA2n5RWdBftA9OmVi8E+HKF1hFQ1TP/yym/clMw=
+github.com/bincooo/completion-flags v0.0.0-20240425042542-ec88c8c3c70b h1:0goGc71b6+b0s49Cbv/x/cPz0WZJF1HjrE26DA6Oug8=
+github.com/bincooo/completion-flags v0.0.0-20240425042542-ec88c8c3c70b/go.mod h1:tABZaA2n5RWdBftA9OmVi8E+HKF1hFQ1TP/yym/clMw=
 github.com/bytedance/sonic v1.11.5 h1:G00FYjjqll5iQ1PYXynbg/hyzqBqavH8Mo9/oTopd9k=
 github.com/bytedance/sonic v1.11.5/go.mod h1:X2PC2giUdj/Cv2lliWFLk6c/DUQok5rViJSemeB0wDw=
 github.com/bytedance/sonic/loader v0.1.0/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
