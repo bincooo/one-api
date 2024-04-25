@@ -62,6 +62,9 @@ _✨ 通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 �
 > [!WARNING]
 > 使用 root 用户初次登录系统后，务必修改默认密码 `123456`！
 
+## 新增
+xml标记增强: [bincooo/completion-flags](https://github.com/bincooo/completion-flags)
+
 ## 功能
 1. 支持多种大模型：
    + [x] [OpenAI ChatGPT 系列模型](https://platform.openai.com/docs/guides/gpt/chat-completions-api)（支持 [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)）
